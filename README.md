@@ -1,6 +1,7 @@
 # SolarWave: Solar Panel with Integrated Wireless Power Transfer Coils
 
 Presented by: Sayitha Jugdaw
+
 Prepared for: Dr. Sampath Jayalath, Dept. of Electrical and Electronics Engineering, University of Cape Town
 
 
