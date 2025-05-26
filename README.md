@@ -1,5 +1,14 @@
 # SolarWave: Solar Panel with Integrated Wireless Power Transfer Coils
 
+Presented by: 
+Sayitha Jugdaw
+
+Prepared for: 
+Dr. Sampath Jayalath
+Dept. of Electrical and Electronics Engineering
+University of Cape Town
+
+
 ## Abstract
 Wireless power transfer (WPT) has become a promising method for delivering electrical energy
 without the need for physical connections, with applications ranging from electric vehicle charging
